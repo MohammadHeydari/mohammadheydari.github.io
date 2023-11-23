@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohammad Heydari's Academic Page"
-  avatar           : "Profile.jpeg"
+  avatar           : "profile.jpg"
   bio              : "Graph Data Science Researcher"
   location         : "Location"
   employer         :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/mohammadHeydari"
+  github           : "mohammadHeydari"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mohammadheydari/"
+  linkedin         : "mohammadheydari/"
   orcid            : "https://orcid.org/0000-0002-7650-5924"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/3686866/mohammad-heydari"
+  stackoverflow    : "3686866/mohammad-heydari"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "IAmHeydari"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://youtube.com/mohammadheydari"
+  youtube          : "mohammadheydari"
   wikipedia        :
 
 
