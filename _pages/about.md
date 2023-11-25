@@ -17,7 +17,7 @@ Data Science, Network Science, Machine Learning, NLP, Knowledge Graphs, and Bioi
 Education
 ======
 * Ph.D. Looking for a Suitable Research Position in Data Science Domain, 2024 - 2028             
-* M.Sc. Tarbiat Modares University, Network Science meets Data Science, 2018 - 2020
+* M.Sc. Tarbiat Modares University, Data Science in Network Science, 2018 - 2020
 * B.Sc. Technical and Vocational University, Software Engineering, 2013 - 2017
 
 Publication
