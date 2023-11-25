@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Heydari's Academic Page"
+title                    : "Mohammad Heydari"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Graph Data Science Researcher"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Heydari's Academic Page"
-  avatar           : "Profile.jpeg"
+  name             : "Mohammad Heydari"
+  avatar           : "profile.jpg"
   bio              : "Graph Data Science Researcher"
   location         : "Andromeda Galaxy"
   employer         :
