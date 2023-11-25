@@ -15,9 +15,9 @@ Research Interests
 Data Science, Network Science, Machine Learning, NLP, Knowledge Graphs, and Bioinformatics.
 
 Education
-======            
+======
+* Ph.D. Looking for a Suitable Research Position in Graph Data Scence, 2024 - 2028             
 * M.Sc. Tarbiat Modares University, Network Science meets Data Science, 2018 - 2020
-* M.Sc. Shahid Beheshti University, Information Technology Engineering, 2017 - 2018
 * B.Sc. Technical and Vocational University, Software Engineering, 2013 - 2017
 
 Publication
@@ -35,12 +35,9 @@ Research Experiences
 ======
 * Research Assistant, Institute for Research in Fundamental Science (IPM), 2023 – 2024 
 * Research Assistant, Tarbiat Modares University, Network Science Laboratory, 2018 – 2021
-* Research Assistant, Software Engineering Lab, Shahid Beheshti University, 2017 – 2018
 * Student Researcher, Shamsipour Technical and Vocational College, 2016 – 2017
 
 Teaching Experience
 ======
 * TA, Tarbiat Modares University, Big Data Analytics, Fall 2020
 * TA, Tarbiat Modares University, Complex Networks, Fall 2019
-
-
