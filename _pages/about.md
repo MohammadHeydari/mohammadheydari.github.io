@@ -32,8 +32,8 @@ Publication
 
 Research Experiences
 ======
-* Research Assistant, Institute for Research in Fundamental Science (IPM), ML Lab, 2023 – 2024 
-* Research Assistant, Tarbiat Modares University, Network Science Lab (NSL), 2018 – 2021
+* Research Assistant, Institute for Research in Fundamental Science (IPM), 2023 – 2024 
+* Research Assistant, Tarbiat Modares University, Network Science Lab, 2018 – 2021
 * Student Researcher, Shamsipour Technical and Vocational College, 2016 – 2017
 
 Teaching Experience
