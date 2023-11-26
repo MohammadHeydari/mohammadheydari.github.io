@@ -16,8 +16,8 @@ Data Science, Network Science, Machine Learning, NLP, Knowledge Graphs, and Bioi
 
 Education
 ======            
-* M.Sc. Tarbiat Modares University, Data Science in Network Science, 2018 - 2021
-* B.Sc. Technical and Vocational University, Software Engineering, 2013 - 2017
+* M.Sc. Tarbiat Modares University, Information Technology Engineering, Network Science, 2018 - 2021
+* B.Sc. Technical and Vocational University, Computer Software Technology Engineering, 2013 - 2017
 
 Publication
 ======
@@ -32,8 +32,8 @@ Publication
 
 Research Experiences
 ======
-* Research Assistant, Institute for Research in Fundamental Science (IPM), 2023 – 2024 
-* Research Assistant, Tarbiat Modares University, Network Science Laboratory, 2018 – 2021
+* Research Assistant, Institute for Research in Fundamental Science (IPM), ML Lab, 2023 – 2024 
+* Research Assistant, Tarbiat Modares University, Network Science Lab (NSL), 2018 – 2021
 * Student Researcher, Shamsipour Technical and Vocational College, 2016 – 2017
 
 Teaching Experience
