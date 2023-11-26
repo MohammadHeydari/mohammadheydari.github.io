@@ -16,8 +16,8 @@ Data Science, Network Science, Machine Learning, NLP, Knowledge Graphs, and Bioi
 
 Education
 ======            
-* M.Sc. Tarbiat Modares University, Information Technology Engineering, Network Science, 2018 - 2021
-* B.Sc. Technical and Vocational University, Computer Software Technology Engineering, 2013 - 2017
+* M.Sc. Tarbiat Modares University, IT Engineering, Network Science, 2018 - 2021
+* B.Sc. Technical and Vocational University, Software Engineering, 2013 - 2017
 
 Publication
 ======
