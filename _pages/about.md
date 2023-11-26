@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Data Science Research Enthusiast with a Deep Interest in Unifying Large Language Models and Knowledge Graphs.
+I’m a Data Science Research Enthusiast with an Interest in Unifying Large Language Models and Knowledge Graphs. I finihsed my M.Sc. in Network Science at [School of Industrial and Systems Engineering](https://ise.modares.ac.ir/), [Tarbiat Modares University](https://www.modares.ac.ir) in Tehran, under supervision of [Dr.Babak Teimourpour](https://www.modares.ac.ir/~b.teimourpour). In my final thesis, titled ["Design a Novel Graph-based Recommender System in Patents Networks"](https://parseh.modares.ac.ir/thesis.php?id=10002924&sid=1&slc_lang=en) with an Excellent score, I studied on Deep Learning on Graphs. I also finihsed my B.Sc. in Software Engineering at Computer Software Institute, Shamsipour Technical and Vocational College, [Technical and Vocational University](https://tvu.ac.ir/) in Tehran. In my Final thesis titled "Design and Implementation of an Online Medical Reservation System" under supervision of Dr. Mohammad Adelinia and Dr. Hamid Khorsand Rahimzadeh I spent most of my time in Software Engineering and Web Development.
 
 Research Interests
 ======
 Data Science, Network Science, Machine Learning, NLP, Knowledge Graphs, and Bioinformatics.
 
 Education
-======
-* Ph.D. Looking for a Suitable Research Position in Data Science Domain, 2024 - 2028             
-* M.Sc. Tarbiat Modares University, Data Science in Network Science, 2018 - 2020
+======            
+* M.Sc. Tarbiat Modares University, Data Science in Network Science, 2018 - 2021
 * B.Sc. Technical and Vocational University, Software Engineering, 2013 - 2017
 
 Publication
