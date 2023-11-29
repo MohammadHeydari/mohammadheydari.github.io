@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+remote_theme: yaoyao-liu/minimal-light
 locale                   : "en-US"
 title                    : "Mohammad Heydari"
 title_separator          : "-"
