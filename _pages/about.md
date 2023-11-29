@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Graph Data Science Research Enthusiast with a Deep Interest in Applying Novel Machine Learning and NLP Techniques on Knowledge Graphs. I finihsed my M.Sc. in Network Science at [School of Industrial and Systems Engineering](https://ise.modares.ac.ir/), [Tarbiat Modares University](https://www.modares.ac.ir) in Tehran, under supervision of [Dr.Babak Teimourpour](https://www.modares.ac.ir/~b.teimourpour). In my final thesis, titled ["Design a Novel Graph-based Recommender System in Patents Networks"](https://parseh.modares.ac.ir/thesis.php?id=10002924&sid=1&slc_lang=en) with an Excellent score, I was lucy to study Deep Learning on Graphs with multiple brilinat talents at [Graph Data Science Lab](GraphDataScience.github.io).  I also finished my B.Sc. in Software Engineering at Computer Software Institute, Shamsipour Technical and Vocational College, [Technical and Vocational University](https://tvu.ac.ir/) in Tehran. In my Final thesis titled "Design and Implementation of an Online Medical Reservation System" under supervision of Dr. Mohammad Adelinia and Dr. Hamid Khorsand Rahimzadeh I spent most of my time in Software Engineering and Web Development.
+I’m a Graph Data Science Research Enthusiast with a Deep Interest in Applying Novel Machine Learning and NLP Techniques on Knowledge Graphs. I finihsed my M.Sc. in Network Science at [School of Industrial and Systems Engineering](https://ise.modares.ac.ir/), [Tarbiat Modares University](https://www.modares.ac.ir) in Tehran, under supervision of [Dr.Babak Teimourpour](https://www.modares.ac.ir/~b.teimourpour). <br> 
+
+In my final thesis, titled ["Design a Novel Graph-based Recommender System in Patents Networks"](https://parseh.modares.ac.ir/thesis.php?id=10002924&sid=1&slc_lang=en) with an Excellent score, I was lucy to study Deep Learning on Graphs with multiple brilinat talents at [Graph Data Science Lab](GraphDataScience.github.io). <br>
+
+I also finished my B.Sc. in Software Engineering at Computer Software Institute, Shamsipour Technical and Vocational College, [Technical and Vocational University](https://tvu.ac.ir/) in Tehran.
 
 Research Interests
 ======
