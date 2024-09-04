@@ -8,11 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Graph Data Science Research Enthusiast with a Deep Interest in Applying Novel Machine Learning and NLP Techniques on Knowledge Graphs. I finihsed my M.Sc. in Network Science at [School of Industrial and Systems Engineering](https://ise.modares.ac.ir/), [Tarbiat Modares University](https://www.modares.ac.ir) in Tehran, under supervision of [Dr.Babak Teimourpour](https://www.modares.ac.ir/~b.teimourpour). <br> 
+I’m a Senior Big Data Engineer at Sadad Informatics Corps. I finihsed my M.Sc. in Network Science at [School of Industrial and Systems Engineering](https://ise.modares.ac.ir/), [Tarbiat Modares University](https://www.modares.ac.ir) in Tehran, under supervision of [Dr.Babak Teimourpour](https://www.modares.ac.ir/~b.teimourpour). <br> 
 
 In my final thesis, titled ["Design a Novel Graph-based Recommender System in Patents Networks"](https://parseh.modares.ac.ir/thesis.php?id=10002924&sid=1&slc_lang=en) with an Excellent score, I study Deep Learning on Graphs with multiple brilinat talents at [Graph Data Science Lab](GraphDataScience.github.io). <br>
 
 I also finished my B.Sc. in Software Engineering at Computer Software Institute, Shamsipour Technical and Vocational College, [Technical and Vocational University](https://tvu.ac.ir/) under supervision of [Dr. Mohammad Adelinia](https://shamsipour.tvu.ac.ir/adelinia) and [Hamid Khorsand Rahimzadeh](https://www.sadra.ac.ir/showteacher1.php?id=44) in Tehran.
+
+Latest News
+======
+* I joined School of Computer Science, Institute for Research in Fundamental Sciences (IPM) as a Senior Researcher in Cloud Computing and Distributed Databases research topic in August 2024.
+
+* Our latest research titled "Persian Slang Text Conversion to Formal and Deep Learning of Persian Short Texts on Social Media for Sentiment Classification" has been accepted and published by the Journal of Electrical and Computer Engineering Innovations.
+
+* Our latest research titled "Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach" has been accepted and published by the International Journal of Web Research (IJWR).
 
 Research Interests
 ======
